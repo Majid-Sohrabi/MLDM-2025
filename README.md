@@ -15,7 +15,7 @@ We will collect your home assignment solutions through private GitHub repositori
 
 # Exam project guidelines
 
-As mentioned in the [course overview](https://github.com/Majid-Sohrabi/MLDM-2025),
+As mentioned in the [course overview](https://github.com/Majid-Sohrabi/MLDM-2025/blob/main/01-intro/MLDM-2025-course-overview.pdf),
 there are two options for the exam project: participating in an ML competition or implementing a technique from an advanced ML paper.
 **Please add your choice to the corresponding table (Check the pinned message in the chat)**.
 
