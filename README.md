@@ -7,7 +7,7 @@ We will collect your home assignment solutions through private GitHub repositori
 #	File	Deadline
 
 
-| 01 | [DataHandling_HW.ipynb]() | 1 October 2024 23:59  |
+| 01 | [DataHandling_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2025/blob/main/01-intro/DataHandling_HW.ipynb) | 1 October 2024 23:59  |
 | -- | ------------------------| ------- |
 | 02 | [LinearRegression_HW.ipynb]() | 1 October 2024 23:59 |
 
