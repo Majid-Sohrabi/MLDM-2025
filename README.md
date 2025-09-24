@@ -10,7 +10,7 @@ We will collect your home assignment solutions through private GitHub repositori
 | 01 | [DataHandling_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2025/blob/main/01-intro/DataHandling_HW.ipynb) | 1 October 2024 23:59  |
 | -- | ------------------------| ------- |
 | 02 | [LinearRegression_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2025/blob/main/02-linear-regression/LinearRegression_HW.ipynb) | 1 October 2024 23:59 |
-| 03 | [Classification_HW.ipynb](TODO) | 15 October 2024 23:59 |
+| 03 | [Classification_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2025/blob/main/03-linear-classification/Classification_HW.ipynb) | 15 October 2024 23:59 |
 | 04 | [Regularization_HW.ipynb](TODO) | 15 October 2024 23:59 |
 
 
