@@ -94,3 +94,5 @@ make a comparison of your implementation vs. theirs.
     1. the problem you were trying to solve,
     1. what exactly you did, and 
     1. what results you obtained.
+  
+- This option is individual work, and group implementation is not accepted.
