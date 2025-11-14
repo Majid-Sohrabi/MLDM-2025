@@ -31,7 +31,7 @@ There are 3 main checkpoints for the project:
 |--|--|--|
 |Topic choice| Oct 2 | Nov 31|
 |Intermediate status report|Nov 20|Dec 4|
-|Project defense|Dec 16| Official exam date|
+|Project defense|Dec 17| Official exam date|
 
 Meeting any of the soft deadlines gives you a +0.5 bonus for the exam score, each.
 Missing any of the hard deadlines gives you a –0.5 penalty for the exam score, each.
