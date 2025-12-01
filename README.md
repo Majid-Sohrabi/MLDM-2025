@@ -29,7 +29,7 @@ there are two options for the exam project: participating in an ML competition o
 There are 3 main checkpoints for the project:
 |Checkpoint|Soft deadline|Hard deadline|
 |--|--|--|
-|Topic choice| Oct 2 | Nov 31|
+|Topic choice| Oct 2 | Nov 30|
 |Intermediate status report|Nov 20|Dec 4|
 |Project defense|Dec 17| Official exam date|
 
